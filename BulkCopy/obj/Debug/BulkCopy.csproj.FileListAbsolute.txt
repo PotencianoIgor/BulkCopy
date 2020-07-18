@@ -1,0 +1,5 @@
+D:\Projetos\BulkCopy\BulkCopy\bin\Debug\BulkCopy.dll
+D:\Projetos\BulkCopy\BulkCopy\bin\Debug\BulkCopy.pdb
+D:\Projetos\BulkCopy\BulkCopy\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Projetos\BulkCopy\BulkCopy\obj\Debug\BulkCopy.dll
+D:\Projetos\BulkCopy\BulkCopy\obj\Debug\BulkCopy.pdb

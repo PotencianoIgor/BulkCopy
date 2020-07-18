@@ -1,0 +1,6 @@
+D:\Projetos\BulkCopy\BulkCopy\bin\Release\BulkCopy.dll
+D:\Projetos\BulkCopy\BulkCopy\bin\Release\BulkCopy.pdb
+D:\Projetos\BulkCopy\BulkCopy\bin\Release\System.ComponentModel.Annotations.dll
+D:\Projetos\BulkCopy\BulkCopy\obj\Release\BulkCopy.dll
+D:\Projetos\BulkCopy\BulkCopy\obj\Release\BulkCopy.pdb
+D:\Projetos\BulkCopy\BulkCopy\obj\Release\Lg.BulkCopy.csprojResolveAssemblyReference.cache

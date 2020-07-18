@@ -1,0 +1,13 @@
+D:\Projetos\BulkCopy\BulkCopy\bin\Debug\BulkCopy.dll
+D:\Projetos\BulkCopy\BulkCopy\bin\Debug\BulkCopy.pdb
+D:\Projetos\BulkCopy\BulkCopy\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Projetos\BulkCopy\BulkCopy\obj\Debug\BulkCopy.dll
+D:\Projetos\BulkCopy\BulkCopy\obj\Debug\BulkCopy.pdb
+F:\BulkCopy\BulkCopy\bin\Debug\BulkCopy.dll
+F:\BulkCopy\BulkCopy\bin\Debug\BulkCopy.pdb
+F:\BulkCopy\BulkCopy\bin\Debug\System.ComponentModel.Annotations.dll
+F:\BulkCopy\BulkCopy\obj\Debug\Lg.BulkCopy.csprojAssemblyReference.cache
+F:\BulkCopy\BulkCopy\obj\Debug\Lg.BulkCopy.csproj.CoreCompileInputs.cache
+F:\BulkCopy\BulkCopy\obj\Debug\Lg.BulkCopy.csproj.CopyComplete
+F:\BulkCopy\BulkCopy\obj\Debug\BulkCopy.dll
+F:\BulkCopy\BulkCopy\obj\Debug\BulkCopy.pdb
